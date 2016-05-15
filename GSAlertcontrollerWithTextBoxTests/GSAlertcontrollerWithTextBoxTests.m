@@ -3,7 +3,7 @@
 //  GSAlertcontrollerWithTextBoxTests
 //
 //  Created by Gowri Sammandhamoorthy on 3/7/15.
-//  Copyright © 2016 Gowri Sammandhamoorthy. All rights reserved.
+//  Copyright © 2015 Gowri Sammandhamoorthy. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
